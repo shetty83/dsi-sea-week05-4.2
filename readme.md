@@ -11,17 +11,17 @@ creator:
 
 ## Introduction
 
-In this lab we will improve upon the analysis of the titanic dataset, performing feature selection and regularization.
+In this lab we will improve upon the analysis of the stumbleupon dataset, performing feature selection and feature engineering.
 
 ## Exercise
 
 #### Requirements
 
-- Create column names
 - K-best feature selection
+- Feature selection through regularization
 - Recursive feature elimination
-- Logistic regression coefficients
-- Compare feature sets
+- Use what we learnt in Feature Engineering to construct new features
+- Compare Logistic Regression model performance based on different set of features picked above
 
 **Bonus:**
 
@@ -30,10 +30,6 @@ In this lab we will improve upon the analysis of the titanic dataset, performing
 #### Starter code
 
 [Starter code](code/starter-code/starter-code-4_2.ipynb)
-
-#### Deliverable
-
-![Coefficients plot](assets/images/coefficients.png)
 
 ## Additional Resources
 
